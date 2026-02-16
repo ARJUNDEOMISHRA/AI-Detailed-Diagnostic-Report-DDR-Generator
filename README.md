@@ -1,0 +1,1 @@
+# AI-Detailed-Diagnostic-Report-DDR-Generator
