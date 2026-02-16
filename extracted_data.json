@@ -1,0 +1,35 @@
+```json
+{
+  "property_issue_summary": "Evidence of moisture ingress and associated cosmetic damage (damp patches, peeling paint, water stains) observed on a bedroom wall, confirmed by thermal imaging showing localized lower temperatures.",
+  "area_observations": [
+    {
+      "area": "Bedroom Wall",
+      "observation": "Damp patches observed."
+    },
+    {
+      "area": "Near Window",
+      "observation": "Paint peeling."
+    },
+    {
+      "area": "Wall (general)",
+      "observation": "Water stains present."
+    },
+    {
+      "area": "Bedroom Wall (Thermal Scan)",
+      "observation": "Lower temperature detected, indicative of moisture."
+    }
+  ],
+  "probable_root_cause": "Moisture is likely present within the affected area of the bedroom wall, contributing to the observed lower temperatures, dampness, and cosmetic damage.",
+  "severity_assessment": "Not Available",
+  "recommended_actions": "Not Available",
+  "additional_notes": "Not Available",
+  "missing_information": [
+    "Specific source of moisture ingress (e.g., plumbing leak, roof leak, condensation, external envelope defect)",
+    "Moisture content readings (e.g., using a moisture meter)",
+    "Extent and spread of the dampness",
+    "External inspection findings related to the affected wall/window",
+    "Detailed assessment of the building's overall condition",
+    "Historical information regarding the issue"
+  ]
+}
+```
