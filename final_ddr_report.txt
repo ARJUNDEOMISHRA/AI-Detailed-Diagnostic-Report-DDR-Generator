@@ -1,0 +1,30 @@
+**Detailed Diagnostic Report (DDR)**
+
+**1. Property Issue Summary**
+Evidence of moisture ingress and associated cosmetic damage (damp patches, peeling paint, water stains) was observed on a bedroom wall. Thermal imaging confirmed localized lower temperatures in the affected area, consistent with moisture presence.
+
+**2. Area-wise Observations**
+*   **Bedroom Wall:** Damp patches observed.
+*   **Near Window:** Paint peeling.
+*   **Wall (general):** Water stains present.
+*   **Bedroom Wall (Thermal Scan):** Lower temperature detected, indicative of moisture.
+
+**3. Probable Root Cause**
+Moisture is likely present within the affected area of the bedroom wall, contributing to the observed lower temperatures, dampness, and cosmetic damage.
+
+**4. Severity Assessment**
+Not Available
+
+**5. Recommended Actions**
+Not Available
+
+**6. Additional Notes**
+Not Available
+
+**7. Missing or Unclear Information**
+*   Specific source of moisture ingress (e.g., plumbing leak, roof leak, condensation, external envelope defect)
+*   Moisture content readings (e.g., using a moisture meter)
+*   Extent and spread of the dampness
+*   External inspection findings related to the affected wall/window
+*   Detailed assessment of the building's overall condition
+*   Historical information regarding the issue
